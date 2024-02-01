@@ -4,6 +4,10 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=imsureyoudontneedit)](https://github.com/ryo-ma/github-profile-trophy)
 
+## Most used languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 - 👀 I’m interested in web-development
 - 🌱 I’m currently learning web-development
 - 💞️ I’m not looking collaboration
