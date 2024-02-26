@@ -1,5 +1,3 @@
-![image](https://github.com/imsureyoudontneedit/imsureyoudontneedit/assets/89917428/a4084d56-3b6d-4f46-9947-82b8c780ed35)
-
 [![codewars](https://www.codewars.com/users/imsureyoudontneedit/badges/small)](https://www.codewars.com/users/imsureyoudontneedit) 
 
 ## GitHub Trophies
