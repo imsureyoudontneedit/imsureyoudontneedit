@@ -1,10 +1,10 @@
 [![codewars](https://www.codewars.com/users/imsureyoudontneedit/badges/small)](https://www.codewars.com/users/imsureyoudontneedit) 
 
-<!--  
-  ## GitHub Trophies
+ 
+## GitHub Trophies
 
-  [![trophy](https://github-profile-trophy.vercel.app/?username=imsureyoudontneedit)](https://github.com/ryo-ma/github-profile-trophy) 
--->
+[![trophy](https://github-profile-trophy.vercel.app/?username=imsureyoudontneedit)](https://github.com/ryo-ma/github-profile-trophy) 
+
 
 ## Most used languages
 
