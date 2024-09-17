@@ -1,5 +1,10 @@
 [![codewars](https://www.codewars.com/users/imsureyoudontneedit/badges/small)](https://www.codewars.com/users/imsureyoudontneedit) 
 
+- 👀 I’m interested in ***web-development low-level programming***
+- 🌱 I’m currently learning ***web-development and computer science***
+- 👾 Currently working in web-development (PHP (Smarty + self-written framework) + jQuery)
+- 📫 How to reach me retr0_tech@internet.ru
+
 ## Languages
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="40px" height="40px"/> &nbsp;
@@ -22,6 +27,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" width="40px" height="40px"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40px" height="40px"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original.svg" width="40px" height="40px"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" /> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/phpstorm/phpstorm-original.svg" width="40px" height="40px"/> &nbsp;
           
           
@@ -29,7 +35,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-- 👀 I’m interested in ***web-development low-level programming***
-- 🌱 I’m currently learning ***web-development and computer science***
-- 👾 Currently working in web-development (PHP (Smarty + self-written framework) + jQuery)
-- 📫 How to reach me retr0_tech@internet.ru
+
