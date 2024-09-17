@@ -1,3 +1,8 @@
+<div id="header" align="center"> 
+<h1>Hello there, I'm Retr0</h1>
+<h3>Fullstack developer Saint Petersburg </h3>
+</div>
+
 [![codewars](https://www.codewars.com/users/imsureyoudontneedit/badges/small)](https://www.codewars.com/users/imsureyoudontneedit) 
 
 - 👀 I’m interested in ***web-development low-level programming***
@@ -24,11 +29,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" width="40px" height="40px"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40px" height="40px"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40px" height="40px"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/phpstorm/phpstorm-original.svg" width="40px" height="40px"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" width="40px" height="40px"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40px" height="40px"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original.svg" width="40px" height="40px"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" width="40px" height="40px"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/phpstorm/phpstorm-original.svg" width="40px" height="40px"/> &nbsp;
           
           
 ## Most used languages
