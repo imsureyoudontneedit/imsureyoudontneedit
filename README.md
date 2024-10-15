@@ -5,7 +5,7 @@
 
 [![codewars](https://www.codewars.com/users/imsureyoudontneedit/badges/small)](https://www.codewars.com/users/imsureyoudontneedit) 
 
-- 👀 I’m interested in ***web-development low-level programming***
+- 👀 I’m interested in ***web-development and low-level programming***
 - 🌱 I’m currently learning ***web-development and computer science***
 - 👾 Currently working in web-development (PHP (Smarty + self-written framework) + jQuery)
 - 📫 How to reach me retr0_tech@internet.ru
