@@ -7,7 +7,7 @@
 
 - 👀 I’m interested in ***web-development and low-level programming***
 - 🌱 I’m currently learning ***web-development and computer science***
-- 👾 Currently working in web-development (PHP (Smarty + self-written framework) + jQuery)
+- 👾 Currently working in web-development
 - 📫 How to reach me retr0_tech@internet.ru
 
 ## Languages
